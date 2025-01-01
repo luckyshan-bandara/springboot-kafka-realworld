@@ -15,7 +15,8 @@
 	<description>Real World project for Spring Boot Kafka</description>
 	<modules>
 		<module>kafka-producer-wikimedia</module>
-	</modules>
+        <module>kafka-consumer-database</module>
+    </modules>
 	<packaging>pom</packaging>
 	<url/>
 	<licenses>
